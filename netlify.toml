@@ -1,4 +1,4 @@
 [build]
   command = "npm run generate"
   publish = "dist"
-  base = "/opt/build/repo/package.json"
+  base = "package.json"
