@@ -193,4 +193,6 @@ export default {
       scrollTrigger: true
     }
   }
+
+
 }

@@ -1,0 +1,5 @@
+
+"build": "nuxt build --entry-name main",
+"dev": "nuxt --entry-name main",
+"generate": "nuxt generate --entry-name main",
+"start": "nuxt start --entry-name main",
